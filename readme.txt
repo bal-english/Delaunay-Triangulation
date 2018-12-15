@@ -18,3 +18,8 @@
 
 	However, you can also leave that field empty to use the default of number of points: 5.
 		./executable_name
+
+---------------
+ Project Bonus
+---------------
+	This project is also available on GitHub, at: https://github.com/shunned/Delaunay-Triangulation
